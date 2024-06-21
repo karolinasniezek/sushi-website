@@ -1,4 +1,4 @@
-The simple Sushi website in CSS and Javascript based on tutorial.
+The simple Sushi website in CSS based on a tutorial.
 
 # Running the app
 
